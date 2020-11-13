@@ -1,0 +1,7 @@
+## Interface: 11305
+## Title: LucifronKickOrders
+## Notes: Addon that annonunces kick orders for lucifron adds in /rw
+## Author: ede1998
+## Version: 1.0
+
+LucifronKickOrders.lua
